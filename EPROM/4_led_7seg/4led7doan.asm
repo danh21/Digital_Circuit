@@ -1,0 +1,9 @@
+org 0h
+db 7fh,7fh,7fh,24h
+db 7fh,7fh,24h,79h
+db 7fh,24h,79h,79h
+db 24h,79h,79h,24h
+db 79h,79h,24h,7fh
+db 79h,24h,7fh,7fh
+db 24h,7fh,7fh,7fh
+db 7fh,7fh,7fh,7fh
